@@ -1,0 +1,1 @@
+This build is currently broken for some reason, the only computer I have that can build this game cleanly for some reason or another lost some of the original data from my other computer that can run the game properly (phasing works), but that computer cannot build the game due to several changes, settings and versioning issues.
